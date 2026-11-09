@@ -8,4 +8,4 @@ Allow: /
 
 # Sitemap Location
 
-Sitemap: https://btechwebwallah.netlify.app/sitemap.xml
+Sitemap: https://webvanta.sbs/sitemap.xml
