@@ -1,11 +1,4 @@
-# Robots.txt for B.TechWebWallah (Lakshya Sharma)
-
 User-agent: *
-
 Allow: /
-
-
-
-# Sitemap Location
 
 Sitemap: https://webvanta.sbs/sitemap.xml
